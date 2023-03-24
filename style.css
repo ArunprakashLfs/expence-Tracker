@@ -6,3 +6,14 @@ body{
     justify-content: center;
     align-items: center;
 }
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.income-outcome-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
